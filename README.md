@@ -1,0 +1,2 @@
+# FullStackPractice
+Odin Project Practice
